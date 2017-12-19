@@ -6,7 +6,7 @@
 可控制先后到底顺序, 总动画时间最好不要改, 不然跑到会有差池,  主是要写的比较粗糙.
 
 演示动画:
-[https://github.com/angelporo/MathCar-ReactNative/blob/master/demoImg/demoGif.gif]()
+![https://github.com/angelporo/MathCar-ReactNative/blob/master/demoImg/demoGif.gif]()
 
 
 内部使用`react-native-animatable`
